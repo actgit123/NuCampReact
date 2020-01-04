@@ -38,5 +38,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actgit123/NuCampReact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/actgit123/NuCampReact/issues"
+  },
+  "homepage": "https://github.com/actgit123/NuCampReact#readme"
 }
