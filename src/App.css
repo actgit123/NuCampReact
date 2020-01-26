@@ -6,11 +6,13 @@ h1, h2, h3, .card-body>h5, .jumbotron, .row-content h3 {
 font-family: "Lobster", cursive;
 }
 
-h2 {
+.col h2 {
+  font-family: "Lobster", cursive;
   color: #3046C5;
 }
 
 .card-img-overlay h5 {
+  font-family: "Lobster", cursive;
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
 }
